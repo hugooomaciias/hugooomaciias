@@ -2,15 +2,7 @@
 
 ###
 
-<p align="left">My name is Hugo and I am a computer engineering student from Málaga. I'm very interested in web development and I always want to keep learning about it.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning about Angular, Astro and Tailwind CSS</p>
+<p align="left">My name is Hugo and I am a computer engineer from Málaga. I'm very interested in web development and I always want to keep learning about it.</p>
 
 ###
 
